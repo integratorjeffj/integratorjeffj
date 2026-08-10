@@ -27,6 +27,20 @@ I care about whether the people using a system actually become more capable. Tec
 
 I am most interested in systems that convert operational friction into repeatable capability.
 
+### LaunchPath
+An employee onboarding orchestration and assurance system designed to turn an accepted candidate into a verifiably ready employee by coordinating cross-functional tasks, dependencies, evidence, approvals, exceptions, and deterministic readiness rules.
+
+**Demonstrates:** workflow orchestration, deterministic business rules, architecture design, approval gates, auditability, role-based experience design, testing, security thinking, responsible AI boundaries, and AI-assisted development.
+
+→ [Live Demo](https://integratorjeffj.github.io/LaunchPath/) · [Repository](https://github.com/integratorjeffj/LaunchPath)
+
+### AI Arcade Academy
+A browser-based AI skills academy that replaces passive slide-deck training with short, replayable games and deterministic mastery scoring. Progression is based on demonstrated accuracy, difficulty, retention, transfer, and independence rather than LLM judgment.
+
+**Demonstrates:** AI enablement strategy, deterministic assessment, learning-system design, configuration-driven architecture, testable business logic, accessibility, and AI-assisted development.
+
+→ [Live Demo](https://integratorjeffj.github.io/arcade-academy/) · [Repository](https://github.com/integratorjeffj/arcade-academy)
+
 ### Flowline
 A lightweight focus command center that converts competing priorities, deadlines, effort, and available time into one recommended next action using transparent deterministic scoring.
 
