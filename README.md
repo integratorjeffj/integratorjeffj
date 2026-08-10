@@ -161,7 +161,7 @@ I want to help organizations turn AI access into employee capability, practical 
 If you're working on that problem, I'd enjoy talking.
 
 📧 jjenkins3418@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/jeffjenkins)
+💼 [LinkedIn](https://www.linkedin.com/in/integratorjeffj)
 
 ---
 
