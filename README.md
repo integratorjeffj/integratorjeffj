@@ -48,6 +48,12 @@ A lightweight focus command center that converts competing priorities, deadlines
 
 → [Live Demo](https://integratorjeffj.github.io/flowline) · [Repository](https://github.com/integratorjeffj/flowline)
 
+### Plumbline
+
+Bid leveling and anomaly detection for construction procurement. Four subcontractors bid the same electrical package in four formats (PDF, Excel, email body, revision). The system extracts, normalizes, and prices scope gaps using a fixed 14-item taxonomy — the lowest submitted bidder became the most expensive once excluded scope was leveled. 75 deterministic tests, real pipeline output, integration status placeholders.
+
+→ [Live Demo](https://integratorjeffj.github.io/plumbline) · [Repository](https://github.com/integratorjeffj/plumbline)
+
 ### Foreman Command Center
 An operational command-center prototype designed to organize work, priorities, people, and management visibility into a clearer execution environment.
 
