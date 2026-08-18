@@ -27,63 +27,78 @@ I care about whether the people using a system actually become more capable. Tec
 
 I am most interested in systems that convert operational friction into repeatable capability.
 
-### Plumbline
+### Portfolio projects on GitHub
+
+Six public repositories, each with a live demo and synthetic data.
+
+#### Plumbline
 An AI-assisted construction procurement and bid-leveling system that converts subcontractor proposals from PDF, Excel, email, and revisions into a common scope model, then exposes exclusions, omissions, arithmetic issues, stale references, and true apples-to-apples cost. The demo uses synthetic bid data and clearly separates live capabilities from simulated or planned integrations.
 
 **Demonstrates:** document ingestion, structured extraction, scope normalization, source lineage, deterministic bid leveling and anomaly detection, AI responsibility boundaries, human-entered pricing controls, reproducible testing, and simulation-to-production architecture.
 
 → [Live Demo](https://integratorjeffj.github.io/plumbline/) · [Repository](https://github.com/integratorjeffj/plumbline)
 
-### LaunchPath
+#### LaunchPath
 An employee onboarding orchestration and assurance system designed to turn an accepted candidate into a verifiably ready employee by coordinating cross-functional tasks, dependencies, evidence, approvals, exceptions, and deterministic readiness rules.
 
 **Demonstrates:** workflow orchestration, deterministic business rules, architecture design, approval gates, auditability, role-based experience design, testing, security thinking, responsible AI boundaries, and AI-assisted development.
 
 → [Live Demo](https://integratorjeffj.github.io/LaunchPath/) · [Repository](https://github.com/integratorjeffj/LaunchPath)
 
-### AI Arcade Academy
+#### AI Arcade Academy
 A browser-based AI skills academy that replaces passive slide-deck training with short, replayable games and deterministic mastery scoring. Progression is based on demonstrated accuracy, difficulty, retention, transfer, and independence rather than LLM judgment.
 
 **Demonstrates:** AI enablement strategy, deterministic assessment, learning-system design, configuration-driven architecture, testable business logic, accessibility, and AI-assisted development.
 
 → [Live Demo](https://integratorjeffj.github.io/arcade-academy/) · [Repository](https://github.com/integratorjeffj/arcade-academy)
 
-### Flowline
+#### Flowline
 A lightweight focus command center that converts competing priorities, deadlines, effort, and available time into one recommended next action using transparent deterministic scoring.
 
 **Demonstrates:** product design, deterministic decision logic, workflow thinking, usability, AI-assisted development, and architecture tradeoffs.
 
-→ [Live Demo](https://integratorjeffj.github.io/flowline) · [Repository](https://github.com/integratorjeffj/flowline)
+→ [Live Demo](https://integratorjeffj.github.io/flowline/) · [Repository](https://github.com/integratorjeffj/flowline)
 
-### Foreman Command Center
-An operational command-center prototype designed to organize work, priorities, people, and management visibility into a clearer execution environment.
+#### Foreman Command Center
+A single-screen command center for a construction project manager, pulling schedule, budget, tasks, risks, decisions, and activity into one workspace so the next thing needing attention is visible without opening five systems.
 
 **Demonstrates:** operational UX, dashboard design, workflow modeling, management visibility, and AI-assisted application development.
 
-→ [Repository](https://github.com/integratorjeffj/foreman-command-center)
+→ [Live Demo](https://integratorjeffj.github.io/foreman-command-center/) · [Repository](https://github.com/integratorjeffj/foreman-command-center)
 
-### AI-Assisted Proposal Workflow
+#### ReachOps
+An online reach management application for a marketing manager at a growing small business, turning fragmented digital-presence signals into evidence-linked priorities, human-owned work, and a measured answer about whether that work helped. Every number carries the record it came from, and where something cannot be measured the interface says so.
+
+**Demonstrates:** evidence lineage, deterministic rule engines, AI bounded to a fact packet, human approval gates, outcome measurement, monorepo architecture, and extensive automated testing.
+
+→ [Live Demo](https://integratorjeffj.github.io/ReachOps/) · [Repository](https://github.com/integratorjeffj/ReachOps)
+
+### Other work
+
+Professional and in-development work without a public repository.
+
+#### AI-Assisted Proposal Workflow
 Architected and directed development of a guided proposal workflow combining technical requirements, commercial rules, pricing, labor, compatibility considerations, engineering guidance, and explicit human review.
 
 During one five-business-day period, the workflow supported nine proposals representing more than $400K in quoted work.
 
 **Demonstrates:** AI-assisted workflow architecture, structured decision support, human review, and measurable operating impact.
 
-### Guided Network Deployment Tools
+#### Guided Network Deployment Tools
 Built guided workflows for technical deployment tasks including WireGuard and MikroTik RouterOS configuration.
 
 Structured inputs, validation, generated configurations, and readback checks help less-experienced technicians execute complex work more consistently while retaining technical oversight.
 
 **Demonstrates:** expertise transfer, deterministic validation, guided operations, and human-controlled automation.
 
-### ProcessForge
+#### ProcessForge
 An AI-native operations platform currently in development exploring how organizational knowledge, workflows, approvals, automation, and business systems can operate through a governed AI layer.
 
 The architecture work includes human approval gates, explicit authorization, validation, drift detection, Git-aware development workflows, and controlled AI boundaries.
 
 **Status:** In development. Not represented as a production deployment.
 
-### AI Employee Enablement Model
+#### AI Employee Enablement Model
 Designed a coaching-led framework for moving employees from initial AI exposure toward confident, independent use.
 
 The model combines progressive practice, real-work application, feedback, workflow analysis, reusable knowledge assets, and a process I call **Harvest the Win**, which turns successful AI-assisted work into reusable prompts, SOPs, checklists, examples, workflows, and training assets.
@@ -153,8 +168,8 @@ MikroTik RouterOS · UniFi · EnGenius Cloud · VoIP · LAN/WAN · VPN · Wi-Fi 
 |---|---|---|
 | Voice & Data General Manager | Interstate Telecommunications, Inc. | 2021–Present |
 | Director of Sales | Interstate Telecommunications, Inc. | 2019–2021 |
-| Head Track & Field / Cross Country Coach | Piedmont College | — |
-| Head Cross Country / Asst Track & Field Coach | Troy University | — |
+| Head Track & Field / Cross Country Coach | Piedmont College | Not listed |
+| Head Cross Country / Asst Track & Field Coach | Troy University | Not listed |
 
 **M.S., Sport Management** | Troy University  
 **B.A., Exercise Science** | Huntingdon College
@@ -188,6 +203,8 @@ My goal is not simply to help organizations gain access to AI.
 
 I want to help turn AI access into **operational capability, practical automation, and measurable business improvement.**
 
-💼 [LinkedIn](https://www.linkedin.com/in/integratorjeffj/)
-
 *Based in Georgia. Open to selective local, hybrid, and remote opportunities.*
+
+---
+
+[View my GitHub profile](https://github.com/integratorjeffj) · [LinkedIn](https://www.linkedin.com/in/integratorjeffj/)
